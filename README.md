@@ -12,5 +12,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am friendly and approachable
 
-[![Sanyogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyogchangmai)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanyogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyogchangmai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
