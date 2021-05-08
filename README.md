@@ -1,7 +1,7 @@
 ### Hi there! I am Sanyog Changmai 👋
 
 
-Here are some ideas to get you started:
+#### Portfolio - [Sanyog Changmai](https://sanyogchangmai.github.io/)
 
 - 🔭 I’m currently working on exploring Open Source
 - 🌱 I’m currently learning React
