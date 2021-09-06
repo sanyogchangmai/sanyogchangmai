@@ -3,6 +3,9 @@
 
 #### Portfolio - [Sanyog Changmai](https://sanyogchangmai.github.io/)
 
+ ![](https://visitor-badge.glitch.me/badge?page_id=sanyogchangmai.changmai)
+
+
 - 🔭 I’m currently working on exploring Open Source
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons
