@@ -4,7 +4,7 @@ Hi 👋 My name is Sanyog Changmai
 Full Stack Web Developer
 ------------------------
 
-I am currently in my junior year pursuing my Bachelor of Technology in Computer Science and Engineering. I have been building web applications for the last 2 years. I am well versed in developing both the frontend and backend of a web application. I have interned as a Frontend Developer at a Stealth Startup in the EV industry based in Noida, India.
+I am currently in my 3rd year pursuing my Bachelor of Technology in Computer Science and Engineering. I have been building web applications for the last 3 years. I am well versed in developing both the frontend and backend of a web application. I have interned as a Frontend Developer at a Stealth Startup in the EV industry based in Noida, India.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sanyogchangmai.vercel.app/](http://sanyogchangmai.vercel.app/)
